@@ -20,13 +20,12 @@
 
 - 🔭 I’m currently looking for a job  
   
-
-- 🌱 I’m currently learning Golang and Kotlin  
+- 🌱 I’m currently learning Javascript, Golang and Kotlin  
   
+- 📱 Mobile Development cohort at Bangkit Academy 2023  
 
-- ⚡Mobile Development cohort at Bangkit Academy 2023  
+- ☁️ Cloud Computing cohort at Bangkit Academy 2024  
   
-
 - ⭐ IT Enthusiast  
   
 
